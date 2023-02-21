@@ -20,6 +20,7 @@ google-chrome -version
 which google-chrome
 
 # Install ChromeDriver
+pip install chromedriver-autoinstaller
 python3 setting_chromedriver.py
 chromedriver -v
 which chromedriver
